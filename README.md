@@ -1,2 +1,2 @@
-# wroclaw2018
-Wrocław 2018
+# CoderKids.pl - kody źródłowe z konferencji
+CoderKids
